@@ -21,6 +21,8 @@
 </p>
 <p align="center">
 
+Note: I just deleted the virus inside the tool.
+
 ### Setup
 
 1. [Download source code zip]
